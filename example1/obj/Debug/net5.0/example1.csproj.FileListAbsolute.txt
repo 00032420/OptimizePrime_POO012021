@@ -1,0 +1,16 @@
+C:\Users\carlo\Desktop\00032420New\POO\AO1\example1\bin\Debug\net5.0\example1.exe
+C:\Users\carlo\Desktop\00032420New\POO\AO1\example1\bin\Debug\net5.0\example1.deps.json
+C:\Users\carlo\Desktop\00032420New\POO\AO1\example1\bin\Debug\net5.0\example1.runtimeconfig.json
+C:\Users\carlo\Desktop\00032420New\POO\AO1\example1\bin\Debug\net5.0\example1.runtimeconfig.dev.json
+C:\Users\carlo\Desktop\00032420New\POO\AO1\example1\bin\Debug\net5.0\example1.dll
+C:\Users\carlo\Desktop\00032420New\POO\AO1\example1\bin\Debug\net5.0\ref\example1.dll
+C:\Users\carlo\Desktop\00032420New\POO\AO1\example1\bin\Debug\net5.0\example1.pdb
+C:\Users\carlo\Desktop\00032420New\POO\AO1\example1\obj\Debug\net5.0\example1.csprojAssemblyReference.cache
+C:\Users\carlo\Desktop\00032420New\POO\AO1\example1\obj\Debug\net5.0\example1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\00032420New\POO\AO1\example1\obj\Debug\net5.0\example1.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\00032420New\POO\AO1\example1\obj\Debug\net5.0\example1.AssemblyInfo.cs
+C:\Users\carlo\Desktop\00032420New\POO\AO1\example1\obj\Debug\net5.0\example1.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\00032420New\POO\AO1\example1\obj\Debug\net5.0\example1.dll
+C:\Users\carlo\Desktop\00032420New\POO\AO1\example1\obj\Debug\net5.0\ref\example1.dll
+C:\Users\carlo\Desktop\00032420New\POO\AO1\example1\obj\Debug\net5.0\example1.pdb
+C:\Users\carlo\Desktop\00032420New\POO\AO1\example1\obj\Debug\net5.0\example1.genruntimeconfig.cache
