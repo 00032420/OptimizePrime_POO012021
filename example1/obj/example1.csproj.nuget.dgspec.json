@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carlo\\Desktop\\00032420New\\POO\\AO1\\example1\\example1.csproj": {}
+    "C:\\Users\\DEKMINI A300\\Desktop\\Development\\POO-BD\\POO\\Optativas\\Into-Github\\OptimizePrime_POO012021\\example1\\example1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carlo\\Desktop\\00032420New\\POO\\AO1\\example1\\example1.csproj": {
+    "C:\\Users\\DEKMINI A300\\Desktop\\Development\\POO-BD\\POO\\Optativas\\Into-Github\\OptimizePrime_POO012021\\example1\\example1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carlo\\Desktop\\00032420New\\POO\\AO1\\example1\\example1.csproj",
+        "projectUniqueName": "C:\\Users\\DEKMINI A300\\Desktop\\Development\\POO-BD\\POO\\Optativas\\Into-Github\\OptimizePrime_POO012021\\example1\\example1.csproj",
         "projectName": "example1",
-        "projectPath": "C:\\Users\\carlo\\Desktop\\00032420New\\POO\\AO1\\example1\\example1.csproj",
-        "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carlo\\Desktop\\00032420New\\POO\\AO1\\example1\\obj\\",
+        "projectPath": "C:\\Users\\DEKMINI A300\\Desktop\\Development\\POO-BD\\POO\\Optativas\\Into-Github\\OptimizePrime_POO012021\\example1\\example1.csproj",
+        "packagesPath": "C:\\Users\\DEKMINI A300\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DEKMINI A300\\Desktop\\Development\\POO-BD\\POO\\Optativas\\Into-Github\\OptimizePrime_POO012021\\example1\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\DEKMINI A300\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
